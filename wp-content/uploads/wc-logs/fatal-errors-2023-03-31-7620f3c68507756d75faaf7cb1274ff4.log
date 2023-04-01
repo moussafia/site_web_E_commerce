@@ -1,0 +1,2 @@
+2023-03-31T14:37:12+00:00 CRITICAL Out of memory (allocated 71303168) (tried to allocate 32768 bytes) in C:\xampp\htdocs\site_web_E_commerce\wp-content\plugins\wpforms-lite\includes\fields\class-name.php on line 310
+
